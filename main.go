@@ -9,8 +9,8 @@ func main() {
 	// set1.ReverseWords()
 	// set1.Students()
 	// set1.MCQ()
-	// pointers.Basics()
+	pointers.Basics()
 	// pointers.Practice()
-	pointers.BankAcc()
+	// pointers.BankAcc()
 
 }
